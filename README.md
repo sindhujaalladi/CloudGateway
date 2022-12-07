@@ -12,3 +12,6 @@ we will fire the url with port number mentioned in cloud gateway since we mentio
 ![image](https://user-images.githubusercontent.com/115841974/205545343-4e076660-3397-4476-aca3-c32bfe67aa1d.png)
 
 this is piece of code where we have mentioned to naviagte the request to corresponding services with url matched.
+
+![image](https://user-images.githubusercontent.com/115841974/206299821-a6d1d51b-6752-49f3-958e-ed2b9d1cd5eb.png)
+
